@@ -7,3 +7,5 @@ this is a sample doc.
 - meat
 
 What are we going to do?
+
+# Have Fun!!
